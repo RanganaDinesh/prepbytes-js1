@@ -292,3 +292,57 @@ h3{
     margin-top: 25px;
     font-size: 30px;
 }
+
+
+
+@media screen and (max-width:600px) {
+    .dis{
+        flex-direction: column;
+        margin-left: -50px;
+    }
+    /* .dis1{
+        flex-direction: column;
+    } */
+    .rdh{
+        flex-direction: column;
+        margin-left: -38px;
+    }
+    .shadow{
+        margin-left: 130px;
+    }
+    .shadow1{
+        margin-left:185px;
+        margin-bottom:100px ;
+    }
+    .box{
+        margin-left: 110px;
+    }
+    .greet1{
+        margin-top: 460px;
+        margin-left: 100px;
+    }
+    #box22{
+        margin-left: 100px;
+    }
+    .box2{
+        width: 520px;
+        height: 460px;
+    }
+    .text1{
+        margin-top: 80px;
+        margin-bottom: 30px;
+        width: 520px;
+    }
+    .butn{
+        width: 520px;
+        margin-bottom: 30px;
+    }
+    .reee{
+        flex-direction: column;
+    }
+    #text2{
+        margin-left: 50px;
+        margin-bottom: 80px;
+    }
+    
+}
